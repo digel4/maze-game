@@ -1,0 +1,23 @@
+{
+  "name": "maze-game",
+  "version": "1.0.0",
+  "description": "A simple maze game made with html and javaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=production node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digel4/maze-game.git"
+  },
+  "author": "Oliver Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digel4/maze-game/issues"
+  },
+  "homepage": "https://github.com/digel4/maze-game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
