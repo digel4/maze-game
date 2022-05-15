@@ -54,7 +54,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+A maze game where the maze is generated through a algorithm which creates squares with at least one access point and eventually leads to the end of the maze. 
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,7 +63,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Express.js] (https://expressjs.com/)
+* [Express.js](https://expressjs.com/)
 * [Matter.js](https://brm.io/matter-js/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
