@@ -13,9 +13,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/digel4/maze-game">
-    <img src="https://user-images.githubusercontent.com/58178649/168474845-b22d852b-7877-42fe-8ac0-7a8c5cb38fd8.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/58178649/168474919-28783ab7-2bb0-458c-9537-115d86696b1c.png" alt="Logo" width="80" height="80">
   </a>
-
 <h3 align="center">Algorithm Maze Game</h3>
 
   <p align="center">
