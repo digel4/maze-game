@@ -54,7 +54,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A maze game where the maze is generated through a algorithm which creates squares with at least one access point and eventually leads to the end of the maze. 
+A maze game where the maze is generated through a algorithm which creates squares with at least one access point and eventually leads to the end of the maze. All the maze walls are affected by physics at completion and they all tumble down to the bottom of the screen!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
