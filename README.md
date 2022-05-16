@@ -18,7 +18,7 @@
 <h3 align="center">Algorithm Maze Game</h3>
 
   <p align="center">
-    A simple maze game where the maze is generated through algorithm
+    A simple maze game where the maze is generated through an algorithm.
     <br />
     <a href="https://github.com/digel4/maze-game"><strong>Explore the docs »</strong></a>
     <br />
@@ -54,7 +54,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A maze game where the maze is generated through a algorithm which creates squares with at least one access point and eventually leads to the end of the maze. All the maze walls are affected by physics at completion and they all tumble down to the bottom of the screen!
+A maze game where the maze is generated through an algorithm which creates squares with at least one access point.  The algorithm generates a path that eventually leads to the end of the maze. All the maze walls are affected by physics at completion and they all tumble down to the bottom of the screen!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
